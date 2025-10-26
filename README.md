@@ -72,7 +72,7 @@ Led strategic business development and operational improvement initiatives to ex
 
 #### **Finance Operations Manager**  
 **Ministério da Cultura | Brasília, Brazil**  
-**April 2004 – December 2021**
+**April 2004 – December 2018**
 
 Managed financial operations at the *Programa Monumenta*, overseeing budgets ranging from US$125M to US$810M and ensuring compliance with national and international financial standards.  
 Implemented process digital transformation initiatives across the financial cycle, reducing operational and annual financial costs to the IADB by over 45% through automation, workflow optimization, and enhanced data transparency.  
